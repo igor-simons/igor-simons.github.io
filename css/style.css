@@ -1,0 +1,59 @@
+*{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
+	
+}
+h1{
+  color: #42e3ff;
+  font: 6em 'Nothing You Could Do';
+  margin-top: 10%;
+}
+h2{
+  color: #42e3ff;
+  font: 2em 'Nothing You Could Do';
+  margin-top: -7%;
+}
+span{
+	color: #ffffff;
+}
+canvas{	
+    background-color: #000;
+}
+a{
+	  font: 18px 'Poiret One';
+	  color: #ffffff;
+}
+
+#title{
+	position:absolute;
+	width:100%;
+	text-align: center;
+
+}
+#footer {
+  position: absolute;
+  top: 94vh;
+  text-align: center;
+  font: 14px 'Poiret One';
+  padding: 10px;
+  background: #1b1b1b;
+  color: #ffffff; 
+  width: 100%;
+}
+#menu {
+  position: absolute;
+  top: 0vh;
+  text-align: center;
+  font: 14px 'Poiret One';
+  padding: 10px;
+  background: #1b1b1b;
+  color: #ffffff; 
+  width: 100%;
+}
